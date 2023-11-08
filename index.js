@@ -22,5 +22,5 @@ Now, every time you open this specific project, the integrated terminal should s
 specified directory.*/
 
 function sayHello () {
-    console.log("Hola!")
+    console.log("Hola! ¿Cómo estás?")
 }
