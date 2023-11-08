@@ -24,3 +24,7 @@ specified directory.*/
 function sayHello () {
     console.log("Hola! ¿Cómo estás?")
 }
+
+function sayBye () {
+    console.log("Adios!")
+}
