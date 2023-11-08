@@ -26,5 +26,5 @@ function sayHello () {
 }
 
 function sayBye () {
-    console.log("Adios!")
+    console.log("Bye bye!")
 }
