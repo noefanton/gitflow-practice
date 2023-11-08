@@ -20,3 +20,11 @@ the terminal to start. Save the changes you made to the .code-workspace file.
 Close the editor and reopen your project in Visual Studio Code.
 Now, every time you open this specific project, the integrated terminal should start in the 
 specified directory.*/
+
+function sayHello () {
+    console.log("Hola! ¿Cómo estás?")
+}
+
+function sayBye () {
+    console.log("Adios!")
+}
